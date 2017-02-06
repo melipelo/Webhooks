@@ -1,0 +1,7 @@
+{
+  "name": "API.AI Webhooks",
+  "description": "Webhook para servicios de sura",
+  "repository": "https://github.com/melipelo/Webhooks",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}
